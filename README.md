@@ -12,4 +12,4 @@
 
 |     ID        | Title                                                  | Language|
 |---------------|:------------------------------------------------------:| -------:|
-| *1*           | [**Multiples of 3 and 5** ](../master/euler-one/euler1.go)    |  `JS`   |
+| *1*           | [**Multiples of 3 and 5** ](../master/euler-one/euler1.go)    |  `GO`   |
