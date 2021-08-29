@@ -13,3 +13,4 @@
 |     ID        | Title                                                  | Language|
 |---------------|:------------------------------------------------------:| -------:|
 | *1*           | [**Multiples of 3 and 5** ](../master/euler-one/euler1.go)    |  `GO`   |
+| *2*           |  [**Even Fibonacci numbers**  ](../master/euler-two/euler2.go)|  `GO`   |
